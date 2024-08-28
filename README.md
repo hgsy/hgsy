@@ -36,7 +36,7 @@
 - Deep Learning applications in Healthcare
 - Adversarial Attack
 
-## GitHub Stats
+## <samp> 📊 GitHub Stats </samp>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=hgsy&show_icons=true&theme=dracula&custom_title=GitHub%20Stats&card_width=400&theme=tokyonight" alt="GitHub Stats">
 </div>
