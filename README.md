@@ -34,7 +34,6 @@
 
 ### <samp> 🎯 Interests </samp>
 - Biomedical Computer Vision
-- Deep Learning applications in Healthcare
 - Adversarial Attack
 
 ### <samp> 📊 GitHub Stats </samp>
