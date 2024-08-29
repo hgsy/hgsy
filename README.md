@@ -15,8 +15,8 @@
 <br>
 
 <picture>
-  <source media="(min-width: 800px)" srcset="https://github.com/hgsy/hgsy/blob/main/assets/coding.gif?raw=true" width="45%">
-  <source media="(max-width: 800px)" srcset="https://github.com/hgsy/hgsy/blob/main/assets/coding.gif?raw=true" width="32%" align="center">
+  <source media="(min-width: 800px)" srcset="https://github.com/hgsy/hgsy/blob/main/assets/coding.gif?raw=true" width="40%">
+  <source media="(max-width: 800px)" srcset="https://github.com/hgsy/hgsy/blob/main/assets/coding.gif?raw=true" width="31%" align="center">
   <img align="right" src="https://github.com/hgsy/hgsy/blob/main/assets/coding.gif?raw=true" alt="Coding GIF">
 </picture>
 
