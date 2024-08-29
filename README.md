@@ -31,7 +31,7 @@
 - Biomedical Computer Vision
 - Adversarial Attack
 
-### <samp> 📊 GitHub Stats </samp>
+### <samp> 📊 Stats </samp>
 <div align="center" style="width: 100%;">
   <picture>
     <source media="(min-width: 800px)" srcset="https://github-readme-stats.vercel.app/api?username=hgsy&show_icons=true&theme=dracula&custom_title=GitHub%20Stats&card_width=400&theme=tokyonight" width="50%">
