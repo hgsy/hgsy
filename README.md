@@ -7,23 +7,25 @@
   I'm focusing on various deep learning concepts and techniques, with a particular interest in Biomedical Computer Vision.
 </h4>
 
-<div  align= "center"> 
+<div align= "center"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 </div>
 
 <br>
 
-
 <picture>
   <source media="(min-width: 800px)" srcset="https://github.com/hgsy/hgsy/blob/main/assets/coding.gif?raw=true" width="45%">
-  <img align="right" src="https://github.com/hgsy/hgsy/blob/main/assets/coding.gif?raw=true" alt="Coding GIF" width="100%">
+  <source media="(max-width: 800px)" srcset="https://github.com/hgsy/hgsy/blob/main/assets/coding.gif?raw=true" width="32%" align="center">
+  <img align="right" src="https://github.com/hgsy/hgsy/blob/main/assets/coding.gif?raw=true" alt="Coding GIF">
 </picture>
 
+
 ### <samp> 🚀 About Me </samp>
+- 📚 Majoring in Software
 - 🎓 Undergraduate student at Hallym University
 - 🔬 Undergraduate researcher at [MMCLAB](https://mmc.hallym.ac.kr/)
-- 📚 Majoring in Software
+
 
 ### <samp> 🌱 Current Focus </samp>
 - Learning Deep Learning with PyTorch
