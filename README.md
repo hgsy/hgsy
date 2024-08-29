@@ -12,15 +12,10 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 </div>
 
-<br>
-
-<p align="center">
-  <a href="https://solved.ac/hiroot/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hiroot" alt="Solved.ac Profile">
-  </a>
-</p>
-
-<img align="right" alt="GIF" src="https://github.com/hgsy/hgsy/blob/main/assets/coding.gif?raw=true" width="40%"/>
+<picture>
+  <source media="(min-width: 800px)" srcset="https://github.com/hgsy/hgsy/blob/main/assets/coding.gif?raw=true" width="50%">
+  <img align="right" src="https://github.com/hgsy/hgsy/blob/main/assets/coding.gif?raw=true" alt="Coding GIF" width="100%">
+</picture>
 
 ### <samp> 🚀 About Me </samp>
 - 🎓 Undergraduate student at Hallym University
@@ -37,6 +32,17 @@
 - Adversarial Attack
 
 ### <samp> 📊 GitHub Stats </samp>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=hgsy&show_icons=true&theme=dracula&custom_title=GitHub%20Stats&card_width=400&theme=tokyonight" alt="GitHub Stats">
+<div align="center" style="width: 100%;">
+  <picture>
+    <source media="(min-width: 800px)" srcset="https://github-readme-stats.vercel.app/api?username=hgsy&show_icons=true&theme=dracula&custom_title=GitHub%20Stats&card_width=400&theme=tokyonight" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=hgsy&show_icons=true&theme=dracula&custom_title=GitHub%20Stats&card_width=400&theme=tokyonight" alt="GitHub Stats" style="; width: 100%;">
+  </picture>
+
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=hgsy&show_icons=true&theme=dracula&custom_title=GitHub%20Stats&card_width=400&theme=tokyonight" alt="GitHub Stats" style="; width: 100%;"> -->
+
+  <picture>
+    <source media="(min-width: 800px)" srcset="http://mazassumnida.wtf/api/v2/generate_badge?boj=hiroot" width="46%">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hiroot" alt="Solved.ac Profile" style="width: 100%;">
+  </picture>
 </div>
+
