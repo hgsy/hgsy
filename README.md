@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/hgsy/hgsy/blob/main/assets/coding.gif?raw=true" width="400"/>
+<img align="right" alt="GIF" src="https://github.com/hgsy/hgsy/blob/main/assets/coding.gif?raw=true" width="40%"/>
 
 ### <samp> 🚀 About Me </samp>
 - 🎓 Undergraduate student at Hallym University
