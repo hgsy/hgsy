@@ -12,8 +12,11 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 </div>
 
+<br>
+
+
 <picture>
-  <source media="(min-width: 800px)" srcset="https://github.com/hgsy/hgsy/blob/main/assets/coding.gif?raw=true" width="50%">
+  <source media="(min-width: 800px)" srcset="https://github.com/hgsy/hgsy/blob/main/assets/coding.gif?raw=true" width="45%">
   <img align="right" src="https://github.com/hgsy/hgsy/blob/main/assets/coding.gif?raw=true" alt="Coding GIF" width="100%">
 </picture>
 
