@@ -8,11 +8,19 @@
   I'm focusing on various deep learning concepts and techniques, with a particular interest in Biomedical Computer Vision.
 </h4>
 
+
 <div align= "center"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
     <img src="https://img.shields.io/badge/OpenCV-767676?style=for-the-badge&logo=OpenCV&logoColor=white">
 </div>
+
+<div align="center">
+    <samp>
+        <strong>잘하고 싶음</strong>
+    </samp>
+</div>
+
 
 <br>
 
