@@ -17,7 +17,7 @@
 
 <div align="center">
     <samp>
-        <strong>잘하고 싶음</strong>
+        <strong>( 잘하고 싶음 )</strong>
     </samp>
 </div>
 
