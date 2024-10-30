@@ -17,7 +17,7 @@
 
 <div align="center">
     <samp>
-        <strong>( 잘하고 싶음 )</strong>
+        <strong>( 고수 호소인 )</strong>
     </samp>
 </div>
 
