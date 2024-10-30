@@ -34,7 +34,7 @@
 ### <samp> 🚀 About Me </samp>
 - 📚 Majoring in Software
 - 🎓 Undergraduate student at Hallym University
-- 🔬 Undergraduate researcher at [MMCLAB](https://mmc.hallym.ac.kr/)@Hallym
+- 🔬 Undergraduate researcher at [MMCLAB@Hallym](https://mmc.hallym.ac.kr/)
 
 
 ### <samp> 🌱 Current Focus </samp>
