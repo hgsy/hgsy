@@ -39,7 +39,7 @@
 
 ### <samp> 🌱 Current Focus </samp>
 - Learning Deep Learning with PyTorch
-- Preparing for the TOEIC exam to enhance English proficiency
+- Preparing for the TOEIC to improve English
 - Practicing version control with Git and GitHub
 
 ### <samp> 🎯 Interests </samp>
