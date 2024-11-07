@@ -3,7 +3,7 @@
 </h3>
 
 
-<h4 align="center">
+<h4 align="center" style="max-width: 80%; margin: 0 auto;">
   I’m a student at the School of Software, Hallym University, and an undergraduate researcher at MMCLAB. 
   My primary focus is on deep learning concepts and techniques, with a special interest in Biomedical Computer Vision.
 </h4>
