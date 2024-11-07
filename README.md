@@ -4,8 +4,8 @@
 
 
 <h4 align="center">
-  I'm a student in the School of Software at Hallym University, currently working as an undergraduate researcher at MMCLAB. 
-  I'm focusing on various deep learning concepts and techniques, with a particular interest in Biomedical Computer Vision.
+  I’m a student at the School of Software, Hallym University, and an undergraduate researcher at MMCLAB. 
+  My primary focus is on deep learning concepts and techniques, with a special interest in Biomedical Computer Vision.
 </h4>
 
 
