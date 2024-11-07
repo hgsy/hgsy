@@ -60,7 +60,8 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hiroot" alt="Solved.ac Profile" style="width: 100%;">
   </picture>
 </div>
-
+<!--
 ### <samp> 🏆 Awards </samp>
 - 2021 강릉과학산업진흥원 SW연계 해커톤 대상 (1위)
 - 2024 한림대학교 SW Week AI 경진대회 동상 (4위)
+-->
