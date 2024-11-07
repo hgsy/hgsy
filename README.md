@@ -2,12 +2,14 @@
   <samp> Hi there, I'm Hwigeun Hwang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 </h3>
 
+<div style="max-width: 80%; margin: 0 auto;">
 
-<h4 align="center" style="max-width: 80%; margin: 0 auto;">
+<h4 align="center">
   I’m a student at the School of Software, Hallym University, and an undergraduate researcher at MMCLAB. 
   My primary focus is on deep learning concepts and techniques, with a special interest in Biomedical Computer Vision.
 </h4>
 
+</div>
 
 <div align= "center"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
