@@ -61,7 +61,12 @@
   </picture>
 </div>
 <!--
+### <samp> 📜 Completed Programs </samp>
+- **2020** 한림대학교 가치 확산 프로그램 SW 코딩 스쿨 수료
+- **2019** 2019 DSA-CS WINTER 수료
+
 ### <samp> 🏆 Awards </samp>
-- 2021 강릉과학산업진흥원 SW연계 해커톤 대상 (1위)
-- 2024 한림대학교 SW Week AI 경진대회 동상 (4위)
+- 2024 한림대학교 SW Week AI 경진대회 동상
+- 2021 강릉과학산업진흥원 SW연계 해커톤 대상
 -->
+
