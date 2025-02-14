@@ -62,6 +62,7 @@
 </div>
 <!--
 ### <samp> 📜 Completed Programs </samp>
+- **2024** IBM: Analyzing Data with Python 수료
 - **2020** 한림대학교 가치 확산 프로그램 SW 코딩 스쿨 수료
 - **2019** 2019 DSA-CS WINTER 수료
 
