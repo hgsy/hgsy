@@ -43,7 +43,7 @@
 - Practicing version control with Git and GitHub
 
 ### <samp> 🎯 Interests </samp>
-- Biomedical Computer Vision
+- Computer Vision
 - Adversarial Attack
 
 ### <samp> 📊 Stats </samp>
