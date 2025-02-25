@@ -38,7 +38,7 @@
 
 
 ### <samp> 🌱 Current Focus </samp>
-- Learning Deep Learning with PyTorch
+- Studying adversarial attacks in deep learning
 - Preparing for the TOEIC to improve my English skills
 - Practicing version control with Git and GitHub
 
@@ -62,9 +62,10 @@
 
 </div>
 
-### <samp> 📜 Programs </samp>
-- **2020** 한림대학교 SW Coding School Completion
-- **2019** DSA-CS WINTER Completion
+### <samp> 📜 Completed Programs </samp>
+- **2020** 한림대학교 SW Coding School
+- **2019** 한림대학교 SW 연합 동아리
+- **2019** DSA-CS WINTER 2019
 
 ### <samp> 🏆 Awards </samp>
 - **2024** 한림대학교 SW Week AI 경진대회 동상
@@ -81,7 +82,7 @@
     
 - **RockPaperScissors**
 
-  - OpenCV 기반 실시간 카메라 인식 가위바위보 머신
+  - OpenCV 기반 실시간 카메라 인식 가위바위보 머신 (공부용)
 
 - **RainClear**
 
