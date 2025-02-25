@@ -32,9 +32,9 @@
 
 
 ### <samp> 🚀 About Me </samp>
-- 📚 Majoring in Software
-- 🎓 Undergraduate student at Hallym University
-- 🔬 Undergraduate researcher at [MMCLAB@Hallym](https://mmc.hallym.ac.kr/)
+- Majoring in Software
+- Undergraduate student at Hallym University
+- Undergraduate researcher at [MMCLAB@Hallym](https://mmc.hallym.ac.kr/)
 
 
 ### <samp> 🌱 Current Focus </samp>
@@ -61,14 +61,28 @@
   </picture>
 
 </div>
-<!--
-### <samp> 📜 Completed Programs </samp>
-- **2024** IBM: Analyzing Data with Python 수료
-- **2020** 한림대학교 가치 확산 프로그램 SW 코딩 스쿨 수료
-- **2019** 2019 DSA-CS WINTER 수료
+
+### <samp> 📜 Programs </samp>
+- **2020** 한림대학교 SW Coding School Completion
+- **2019** DSA-CS WINTER Completion
 
 ### <samp> 🏆 Awards </samp>
-- 2024 한림대학교 SW Week AI 경진대회 동상
-- 2021 강릉과학산업진흥원 SW연계 해커톤 대상
--->
+- **2024** 한림대학교 SW Week AI 경진대회 동상
+- **2021** 강릉과학산업진흥원 SW 해커톤 대상
 
+### <samp> 📌 Projects </samp>
+- **Karnival**
+
+  - 강원도 지역 축제 후기 감정 분석과 각 지역의 인프라 기반 분석을 통한 여행지 추천
+
+- **Kanggoaid**
+  
+  - 강원고등학교 학생들을 위한 공지사항, 학사일정, 게시판 등의 기능을 제공하는 학교 앱
+    
+- **RockPaperScissors**
+
+  - OpenCV 기반 실시간 카메라 인식 가위바위보 머신
+
+- **RainClear**
+
+  - Computer Vision 작업을 위한 인페인팅 기반 Deraining
