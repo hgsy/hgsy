@@ -56,6 +56,36 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=hgsy&show_icons=true&theme=dracula&custom_title=GitHub%20Stats&card_width=400&theme=tokyonight&count_private=true" alt="GitHub Stats" style="; width: 100%;"> -->
 
   <picture>
-    <source media="(min-width: 800px)" srcset="http://mazassumnida.wtf/api/v2/generate_badge?boj=Hiroot" width="46%">
-    <img src="http://mazassumni상
-
+     <source media="(min-width: 800px)" srcset="http://mazassumnida.wtf/api/v2/generate_badge?boj=Hiroot" width="46%">
+     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Hiroot" alt="Solved.ac Profile" style="width: 100%;">
+   </picture>
+ 
+ </div>
+ <!-- 이것은 주석입니다. 이 내용은 렌더링되지 않습니다. 
+ ### <samp> 📜 Completed Programs </samp>
+ - **2022** 한림대학교 학술동아리 씨애랑 신입생 교육
+ - **2020** 한림대학교 SW Coding School
+ - **2019** 한림대학교 SW 고교 연합 동아리
+ - **2019** DSA-CS WINTER 2019
+ 
+ ### <samp> 🏆 Awards </samp>
+ - **2024** 한림대학교 SW Week AI Competition 동상
+ - **2021** 강릉과학산업진흥원 SW 해커톤 대상 "Karnival"
+ 
+ ### <samp> 📌 Projects </samp>
+ - **Karnival**
+ 
+   - 강원도 지역 축제 후기 감정 분석과 각 지역의 인프라 기반 분석을 통한 여행지 추천
+ 
+ - **Kanggoaid**
+   
+   - 강원고등학교 학생과 선생님들을 위한 기능을 제공하는 학교 앱
+     
+ - **RockPaperScissors**
+ 
+   - OpenCV 기반 실시간 가위바위보 머신
+ 
+ - **RainClear**
+ 
+   - Computer Vision 작업을 위한 인페인팅 기반 Deraining
+-->
