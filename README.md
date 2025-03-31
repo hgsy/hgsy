@@ -48,7 +48,6 @@
 
 <div>
   <br>
-  <br>
 </div>
 <!--
 ### <samp> 📊 Stats </samp>
