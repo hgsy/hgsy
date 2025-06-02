@@ -76,6 +76,7 @@
  - **2019** DSA-CS WINTER 2019
  
  ### <samp> 🏆 Awards </samp>
+ - **2025** 한림대학교 디지털 경진대회 금상
  - **2024** 한림대학교 SW Week AI Competition 동상
  - **2021** 강릉과학산업진흥원 SW 해커톤 대상 "Karnival"
  
