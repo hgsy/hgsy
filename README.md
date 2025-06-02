@@ -44,14 +44,12 @@
 - Studying adversarial attacks in deep learning
 - Preparing for the TOEIC to improve my English skills
 - Practicing version control with Git and GitHub
+- Reading papers on computer vision and ML security
 
 ### <samp> 🎯 Interests </samp>
 - Computer Vision
 - Adversarial Attack
 
-<div>
-  <br>
-</div>
 <!--
 ### <samp> 📊 Stats </samp>
 <div align="center" style="width: 100%;">
