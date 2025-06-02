@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
     <img src="https://img.shields.io/badge/SkLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/pandas-217346?style=for-the-badge&logo=pandas&logoColor=white">
-    <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+    <img src="https://img.shields.io/badge/numpy-4DAAA5?style=for-the-badge&logo=numpy&logoColor=white">
     <img src="https://img.shields.io/badge/OpenCV-767676?style=for-the-badge&logo=OpenCV&logoColor=white">
 </div>
 <br>
