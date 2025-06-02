@@ -1,17 +1,20 @@
 <h2 align="center">
   <samp> Hi there, I'm Hwigeun Hwang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
-</h3>
+</h2>
 
 
 <h4 align="center">
   I’m a student at the School of Software, Hallym University, and an undergraduate researcher at MMCLAB,
   with interests in deep learning and its applications, particularly in adversarial attack and computer vision.
 </h4>
-
-
-<div align= "center"> 
+<br>
+<div align="center"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+    <img src="https://img.shields.io/badge/SkLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/pandas-217346?style=for-the-badge&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
     <img src="https://img.shields.io/badge/OpenCV-767676?style=for-the-badge&logo=OpenCV&logoColor=white">
 </div>
 
@@ -32,9 +35,9 @@
 
 
 ### <samp> 🚀 About Me </samp>
-- Majoring in Software
-- Undergraduate student at Hallym University
-- Undergraduate researcher at [MMCLAB@Hallym](https://mmc.hallym.ac.kr/)
+- 🎓 Majoring in Software at **Hallym University**
+- 🔬 Undergraduate researcher at [MMCLAB@Hallym](https://mmc.hallym.ac.kr/)
+- 📧 Reach me at: **your-email@hallym.ac.kr**
 
 
 ### <samp> 🌱 Current Focus </samp>
@@ -94,4 +97,7 @@
  - **RockPaperScissors**
  
    - OpenCV 기반 실시간 가위바위보 머신
+
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=767676&center=true&width=435&lines=Deep+Learning+Researcher;Computer+Vision+Enthusiast;Adversarial+Attack+Specialist" alt="Typing SVG" />
 -->
