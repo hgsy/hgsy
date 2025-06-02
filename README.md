@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
     <img src="https://img.shields.io/badge/OpenCV-767676?style=for-the-badge&logo=OpenCV&logoColor=white">
 </div>
-
+<br>
 <div align="center">
     <samp>
         <strong>( 잘하고 싶어요 )</strong>
