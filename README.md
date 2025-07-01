@@ -50,6 +50,7 @@
 ### <samp> 🎯 Interests </samp>
 - Computer Vision
 - Adversarial Attack
+- Digital Watermarking
 
 <!--
 ### <samp> 📊 Stats </samp>
