@@ -45,7 +45,7 @@
 - Studying adversarial attacks in deep learning
 - Preparing for the TOEIC to improve my English skills
 - Practicing version control with Git and GitHub
-- Reading papers on computer vision and ML security
+- Reading papers on computer vision and AI security
 
 ### <samp> 🎯 Interests </samp>
 - Computer Vision
