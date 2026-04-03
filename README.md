@@ -4,8 +4,7 @@
 
 
 <h4 align="center">
-  I’m a student at the School of Software, Hallym University, and an undergraduate researcher at MMCLAB,
-  with interests in deep learning and its applications, particularly in adversarial attack and computer vision.
+  M.S. student at Hallym University interested in adversarial attacks, AI watermarking, and computer vision.
 </h4>
 <br>
 <div align="center"> 
