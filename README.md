@@ -32,25 +32,19 @@
   <img align="right" src="https://github.com/hgsy/hgsy/blob/main/assets/coding.gif?raw=true" alt="Coding GIF">
 </picture>
 
-
 ### <samp> 🚀 About Me </samp>
-- 🎓 Majoring in Software at **Hallym University**
-- 🔬 Undergraduate researcher at **[MMCLAB@Hallym](https://mmc.hallym.ac.kr/)**
+- 🎓 M.S. student in Computer Engineering at **Hallym University**
+- 🔬 Researcher at **[MMCLAB@Hallym](https://mmc.hallym.ac.kr/)**
 - 📧 **[Contact me via email](mailto:M26055@hallym.ac.kr)**
 
-
-
 ### <samp> 🌱 Current Focus </samp>
-- Studying adversarial attacks in deep learning
-- Preparing for the TOEIC to improve my English skills
-- Practicing version control with Git and GitHub
-- Reading papers on computer vision and AI security
+- Researching adversarial attacks and AI watermarking
+- Studying computer vision and AI security
 
 ### <samp> 🎯 Interests </samp>
 - Computer Vision
-- Adversarial Attack
-- Digital Watermarking
-
+- Adversarial Attacks
+- AI Watermarking
 <!--
 ### <samp> 📊 Stats </samp>
 <div align="center" style="width: 100%;">
