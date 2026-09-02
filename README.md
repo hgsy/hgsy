@@ -1,16 +1,23 @@
-## Hi there 👋
+<h2 align="center">
+  <samp> Hi there, I'm Hwigeun Hwang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+</h2>
 
-<!--
-**hgsy/hgsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h4 align="center">
+  M.S. student at Hallym University interested in adversarial attacks, AI watermarking.
+</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(min-width: 800px)" srcset="https://github.com/hgsy/hgsy/blob/main/assets/coding.gif?raw=true" width="40%">
+  <source media="(max-width: 800px)" srcset="https://github.com/hgsy/hgsy/blob/main/assets/coding.gif?raw=true" width="31%" align="center">
+  <img align="right" src="https://github.com/hgsy/hgsy/blob/main/assets/coding.gif?raw=true" alt="Coding GIF">
+</picture>
+
+### <samp> About Me </samp>
+- M.S. student in Computer Engineering at **Hallym University**
+- Researcher at **[MMCLAB@Hallym](https://mmc.hallym.ac.kr/)**
+- **[Contact me via email](mailto:M26055@hallym.ac.kr)**
+
+### <samp> Interests </samp>
+- Adversarial Attacks
+- AI Watermarking
